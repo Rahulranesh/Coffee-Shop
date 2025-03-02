@@ -17,7 +17,7 @@ class _HomeScreenState extends State<HomeScreen> {
           coffeeType[i][1] = false;
         }
         coffeeType[index][1] = true;
-      },
+      }
     );
   }
 
