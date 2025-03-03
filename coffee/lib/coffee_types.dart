@@ -6,7 +6,7 @@ class CoffeeType extends StatelessWidget {
   final VoidCallback onTap;
   CoffeeType(
       {required this.coffeeType,
-      required this.isSelected
+      required this.isSelected,
       required this.onTap});
 
   @override
