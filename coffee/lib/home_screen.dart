@@ -42,7 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
             child: Icon(Icons.person),
           ),
         ],
-      )
+      ),
       bottomNavigationBar: BottomNavigationBar(
         items: [
           BottomNavigationBarItem(icon: Icon(Icons.home), label: ''),
